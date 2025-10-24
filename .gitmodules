@@ -1,0 +1,12 @@
+[submodule "yocto-bbb-labs/meta-arm"]
+	path = yocto-bbb-labs/meta-arm
+	url = https://git.yoctoproject.org/git/meta-arm
+	branch = yocto-5.0.1
+[submodule "yocto-bbb-labs/meta-ti"]
+	path = yocto-bbb-labs/meta-ti
+	url = https://git.yoctoproject.org/git/meta-ti
+	branch = scarthgap-labs
+[submodule "yocto-bbb-labs/poky"]
+	path = yocto-bbb-labs/poky
+	url = https://git.yoctoproject.org/git/poky
+	branch = scarthgap-5.0.4
